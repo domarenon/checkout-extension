@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome to the {{extensionPoint}} extension!",
+  "vat_code_label": "VAT Code",
+  "vat_error_message" : "VAT Invalid",
+  "rpps_number_label": "RPPS Number"
+
+}
